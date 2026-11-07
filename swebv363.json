@@ -220,7 +220,7 @@
       "prefabName": "data/prefabs/ico_c5-rongho-livestream",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -252,7 +252,7 @@
       "prefabName": "data/prefabs/ico_c5-xocdiajackpot",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
