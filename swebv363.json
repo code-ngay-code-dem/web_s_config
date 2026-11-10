@@ -4,7 +4,7 @@
   "phising_domain": "https://sara.eu.com/",
   "gemwin_lp_url": "gemwin.auction",
   "lp_domain": "https://sunwin.amsterdam/",
-  "lp_domain_zo": "https://zowin.style/",
+  "lp_domain_zo": "https://zowin.jetzt/",
   "lp_domain_nhat": "https://nhatvip.spot/",
   "rs_domain": "https://staticmt.net/",
   "rs_domain_88": "https://bundle.sungame.net/",
@@ -12,7 +12,7 @@
   "web_domains": {
     "sun.win": "https://web.sunwin.amsterdam/",
     "nhat.vip": "https://play.nhatvip.spot/",
-    "zo.win": "https://web.zowin.style/"
+    "zo.win": "https://web.zowin.jetzt/"
   },
   "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html",
   "phising_livestream_video_url": "phising_livestream_withautoplay_213_v025k.html",
