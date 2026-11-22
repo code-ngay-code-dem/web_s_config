@@ -623,7 +623,7 @@
       "prefabName": "data/prefabs/ico_sexy-live",
       "position": 4,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false,
       "typeGame": 1
     },
