@@ -46,9 +46,8 @@
     }
   },
   "c5_config": {
-    "c5sbl_video_url": "internal/livestream_page/c5_sicbolive_withautoplay_01w.html",
-    "c5bcrl_video_url": "internal/livestream_page/c5_bcrlive_withautoplay_04w.html",
-    "c5_sicbo_live_video_url": "internal/livestream_page/c5_sicbolive_withautoplay_17w_s.html"
+    "c5sbl_video_url": "internal/livestream_page/c5_sblive_withautoplay_01w.html",
+    "c5bcrl_video_url": "internal/livestream_page/c5_bcrlive_withautoplay_04w.html"
   },
   "sb_daga_video_url": "https://vuivita.sb21.net/?streaming=true&custom=true",
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
