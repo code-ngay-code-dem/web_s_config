@@ -3,14 +3,14 @@
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
   "gemwin_lp_url": "gemwin.hiphop",
-  "lp_domain": "https://sunwin.osaka/",
+  "lp_domain": "https://sunwin.lotto/",
   "lp_domain_zo": "https://zowin.vodka/",
   "lp_domain_nhat": "https://nhatvip.eco/",
   "rs_domain": "https://staticmt.net/",
   "rs_domain_88": "https://bundle.sungame.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
   "web_domains": {
-    "sun.win": "https://web.sunwin.osaka/",
+    "sun.win": "https://web.sunwin.lotto/",
     "nhat.vip": "https://play.nhatvip.eco/",
     "zo.win": "https://web.zowin.vodka/"
   },
